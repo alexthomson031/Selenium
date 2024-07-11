@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dfkcrlf7d28120la?svg=true)](https://ci.appveyor.com/project/alexthomson031/selenium)
+[![Java CI with Gradle](https://github.com/alexthomson031/Selenium/actions/workflows/main.yml/badge.svg)](https://github.com/alexthomson031/Selenium/actions/workflows/main.yml)
